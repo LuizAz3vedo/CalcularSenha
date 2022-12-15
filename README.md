@@ -1,7 +1,7 @@
 # CalcularSenha
 
 ## Descrição do projeto:
-<p>Projeto baseado em um questão para estágio onde se deveria achar uma determinada senha partindo do binario<p>
+<p>Projeto realizado em JS baseado em um questão para estágio onde se deveria achar uma determinada senha partindo do binario<p>
 
 ## Questão:
 Durante uma expedição tecnológica, sua equipe encontrou o que parece ser a senha que lhes dá acesso a um grande tesouro digital. 
